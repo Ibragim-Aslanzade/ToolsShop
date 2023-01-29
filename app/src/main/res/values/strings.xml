@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tools Shop</string>
+    <string-array name="tools">
+        <item>Дрели</item>
+        <item>Болгарки</item>
+        <item>Перфораторы</item>
+    </string-array>
+
+    <string name="drill_interskol_title">Дрель Интерскол</string>
+    <string name="drill_makita_title">Дрель Makita</string>
+    <string name="drill_dewalt_title">Дрель Dewalt</string>
+
+    <string name="drill_interskol_info">Технология Li-ion – низкий саморазряд, отсутствие эффекта памяти, высокая энергоемкость.отличный баланс между емкостью аккумулятора и мощностью двигателя</string>
+    <string name="drill_makita_info">двухскоростной планетарный редуктор с металлическими шестернями – высокая эффективность как сверления, так и закручивания крепежа.</string>
+    <string name="drill_dewalt_info">LED-подсветка рабочей зоны.экокейс - компактная (занимает место, как средняя книга) коробка-кейс из прочного ламинированного многослойного картона с пластиковой ручкой, предназначенная для постоянного хранения инструмента и аксессуаров (запасной аккумулятор, зарядное устройство, биты, сверла).</string>
+</resources>
